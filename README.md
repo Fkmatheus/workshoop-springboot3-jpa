@@ -1,6 +1,6 @@
 # 📚 Workshop Spring Boot 3 + JPA
 
-Projeto de uma API RESTful desenvolvida com Spring Boot 3 e JPA. A aplicação simula operações de CRUD utilizando um banco de dados H2 em memória.  
+Projeto de uma E-commerce API RESTful desenvolvida com Spring Boot 3 e JPA. A aplicação simula operações de CRUD utilizando um banco de dados H2 em memória.  
 
 ---
 
